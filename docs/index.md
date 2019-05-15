@@ -105,5 +105,4 @@ Note: Students may apply as a team of 3-5 students (see website for guidelines) 
 - The [Natural Language Processing Lab](https://nlp-lab.org/)
 - [IU Department of Linguistics](http://www.indiana.edu/~lingdept/)
 - [IU Institute for the Study of Contemporary Antisemitism](https://isca.indiana.edu/)
-- other organization, such as IU Hillel and the Indianapolis Jewish Community Relations Council might be added
 
