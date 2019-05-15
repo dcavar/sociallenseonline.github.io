@@ -7,10 +7,9 @@ author: Damir Cavar
 tags: [social lense,hate-speech,anti-semitism,hatespeech]
 ---
 
-# Social Lense Online JEDI Innitiave
+# Antisemitism on Social Media
 
-**Just Environments Data Initiative Datathon and Hackathon!**
-
+## Datathon and AI Competition for High School and Undergraduate Students
 
 Want to learn about online hate speech like antisemitism and how to combat it using Artificial Intelligence?
 
