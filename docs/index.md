@@ -7,9 +7,9 @@ author: Damir Cavar
 tags: [social lense,hate-speech,anti-semitism,hatespeech]
 ---
 
-# Social Lense Online JEDI Innitiave: DATATHON and HACKATHON
+# Social Lense Online JEDI Innitiave
 
-**J**ust **E**nvironments **D**ata **I**nitiative Datathon and Hackathon!
+**Just Environments Data Initiative Datathon and Hackathon!**
 
 
 Want to learn about online hate speech like antisemitism and how to combat it using Artificial Intelligence?
@@ -46,7 +46,7 @@ No prior knowledge is required but some experience with programming will help. H
 You can apply as a team (e.g. from one school) or as an individual student and we will team you up.
 
 
-A select group of IU professors representing Computational Linguistics and the Institute for the Study of Contemporary Antisemitism are excited to share with you the details of a brand new team-based computing competition and datathon for high schoolers and college undergraduates which will take place during the Fall 2019 semester on the beautiful Indiana University Bloomington campus. 
+A select group of IU professors representing Computational Linguistics and the Institute for the Study of Contemporary Antisemitism are excited to share with you the details of a brand new team-based computing competition and datathon for high schoolers and college undergraduates which will take place during the Fall 2019 semester on the beautiful [Indiana University Bloomington](https://www.indiana.edu/) campus. 
 
 
 # Contest Design
