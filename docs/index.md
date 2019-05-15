@@ -79,7 +79,7 @@ Following are a list of important contest dates (all Sunday afternoons). Please 
 
 All 4 competitive workshops and the final Symposium will take place on the IU-BL campus in Bloomington, Indiana. Participants are expected to arrange their own travel to the competition site.
 
-Having reviewed this general competition description and contest timeline, please share the linked competition flyer widely with teachers and students across high schools in your district.
+Having reviewed this general competition description and contest timeline, please share the [linked competition flyer](Flyer.pdf) widely with teachers and students across high schools in your district.
 
 All high school students are invited to apply (we welcome applications anytime from now through August 31). We want to enlist your help as educators in attracting some of your best and brightest students to participate in this enriching computer deep learning and data-processing challenge.
 
@@ -89,6 +89,8 @@ All high school students are invited to apply (we welcome applications anytime f
 Interested students: Please complete and submit a secure application form (application and contest entry are both FREE), "meet" the contest judges, view our sponsor list, and take a look at the impressive cash prizes to be claimed by our three top-scoring teams!
 
 Note: Students may apply as a team of 3-5 students (see website for guidelines) or individually to be matched by us with a team. No prior knowledge is required though some programming experience may be useful.
+
+**The Application Form is coming soon!**
 
 
 
