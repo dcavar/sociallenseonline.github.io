@@ -26,7 +26,7 @@ Learn more, read the competition guidelines, and complete a team or individual a
 
 Cash prizes: $200 - $500
 
-Online hate speech, including antisemitism, is a growing problem for communication on social media, such as Twitter. It has a global, regional, and local impact. Online and offline anti-Semitic incidents have increased in recent years and have had an impact even in some high schools across the country. 
+Online hate speech, including antisemitism, is a growing problem for communication on social media, such as Twitter. It has a global, regional, and local impact. Online and offline antisemitic incidents have increased in recent years and have had an impact even in some high schools across the country. 
 
 We will train a group of high-school students and University undergraduates in 4 competitive workshops to recognize antisemitic messages on social media and to develop tools how to track them by using AI.
 
@@ -50,9 +50,9 @@ A select group of IU professors representing Computational Linguistics and the I
 
 # Contest Design
 
-By participating, your students will learn how to recognize messages of hate against Jews on social media, learn about its historical background, engage in critical thinking and creative problem-solving, flex and develop their intellectual and computing muscles, cooperate with others to create a useful product, and gain valuable experience with sophisticated Artificial Intelligence algorithms, knowledge of which can later help them build prestigious and lucrative careers in several related fields.
+By participating, students will learn how to recognize messages of hate against Jews on social media, learn about its historical background, engage in critical thinking and creative problem-solving, flex and develop their intellectual and computing muscles, cooperate with others to create a useful product, and gain valuable experience with sophisticated Artificial Intelligence and Natural Language Processing algorithms, knowledge of which can later help them build prestigious and lucrative careers in several related fields.
 
-Just as importantly, your students will also contribute to the scientific study and analysis of online hate speech, making them junior partners in the JEDI (Just Environments Data Initiative) mission to combat the dissemination of hate speech in online environments like Facebook and Twitter. For the current competition, teams will employ AI algorithms to collect and analyze anti-Semitic messages, which among other forms of online hate speech are a growing problem for communication on social media.
+Just as importantly, your students will also contribute to the scientific study and analysis of online hate speech, making them junior partners in the JEDI (Just Environments Data Initiative) mission to combat the dissemination of hate speech in online environments like Facebook and Twitter. For the current competition, teams will employ AI algorithms to collect and analyze antisemitic messages, which among other forms of online hate speech are a growing problem for communication on social media.
 
 
 # Contest Timeline
@@ -81,7 +81,7 @@ All 4 competitive workshops and the final Symposium will take place on the IU-BL
 
 Having reviewed this general competition description and contest timeline, please share the [linked competition flyer](Flyer.pdf) widely with teachers and students across high schools in your district.
 
-All high school students are invited to apply (we welcome applications anytime from now through August 31). We want to enlist your help as educators in attracting some of your best and brightest students to participate in this enriching computer deep learning and data-processing challenge.
+All high school students are invited to apply (we welcome applications anytime from now through August 31).
 
 
 # Registration and Application
