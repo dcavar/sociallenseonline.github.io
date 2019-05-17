@@ -67,14 +67,14 @@ Following are a list of important contest dates (all Sunday afternoons). Please 
 | **event**    | **date**           | **time** |
 |:-------------|:-------------------|:---------|
 | Meeting 1    | September 22, 2019 | 1-5 PM   |
-| Meeting 2    | September 29, 2019 | 1-5 PM   |
-| Meeting 3    | October 6, 2019    | 1-5 PM   |
-| Meeting 4    | October 20, 2019   | 1-5 PM   |
+| Meeting 2    | October 6, 2019    | 1-5 PM   |
+| Meeting 3    | October 20, 2019   | 1-5 PM   |
+| Meeting 4    | November 3, 2019   | 1-5 PM   |
 
 
 **Team Submissions Deadline: November 3**
 
-**Closing Symposium: November 24 (Time and Location TBA)**
+**Closing Symposium: (Time and Location TBA)**
 
 
 All 4 competitive workshops and the final Symposium will take place on the IU-BL campus in Bloomington, Indiana. Participants are expected to arrange their own travel to the competition site.
