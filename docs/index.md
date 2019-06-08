@@ -26,7 +26,7 @@ Learn more, read the competition guidelines, and complete a team or individual a
 
 Cash prizes: $200 - $500
 
-Online hate speech, including antisemitism, is a growing problem for communication on social media, such as Twitter. It has a global, regional, and local impact. Online and offline antisemitic incidents have increased in recent years and have had an impact even in some high schools across the country. 
+Online hate speech, including antisemitism, is a growing problem for communication on social media, such as Twitter. It has a global, regional, and local impact. Online and offline antisemitic incidents have increased in recent years and have had an impact even in some high schools across the country.
 
 We will train a group of high-school students and University undergraduates in 4 competitive workshops to recognize antisemitic messages on social media and to develop tools how to track them by using AI.
 
@@ -45,7 +45,7 @@ No prior knowledge is required but some experience with programming will help. H
 You can apply as a team (e.g. from one school) or as an individual student and we will team you up.
 
 
-A select group of IU professors representing Computational Linguistics and the Institute for the Study of Contemporary Antisemitism are excited to share with you the details of a brand new team-based computing competition and datathon for high schoolers and college undergraduates which will take place during the Fall 2019 semester on the beautiful [Indiana University Bloomington](https://www.indiana.edu/) campus. 
+A select group of IU professors representing Computational Linguistics and the Institute for the Study of Contemporary Antisemitism are excited to share with you the details of a brand new team-based computing competition and datathon for high schoolers and college undergraduates which will take place during the Fall 2019 semester on the beautiful [Indiana University Bloomington](https://www.indiana.edu/) campus.
 
 
 # Contest Design
@@ -92,6 +92,7 @@ Note: Students may apply as a team of 3-5 students (see website for guidelines) 
 
 **The Application Form is coming soon!**
 
+Please use this [email](mailto:social.lense.online@gmail.com) for contact information and applications!
 
 
 # Funded by
@@ -106,4 +107,3 @@ Note: Students may apply as a team of 3-5 students (see website for guidelines) 
 - The [Natural Language Processing Lab](https://nlp-lab.org/)
 - [IU Department of Linguistics](http://www.indiana.edu/~lingdept/)
 - [IU Institute for the Study of Contemporary Antisemitism](https://isca.indiana.edu/)
-
