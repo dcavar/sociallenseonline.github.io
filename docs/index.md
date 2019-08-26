@@ -24,7 +24,7 @@ All high school students are invited to apply! No prior knowledge is required bu
 
 Learn more, read the competition guidelines, and complete a team or individual application.
 
-Cash prizes: $200 - $500
+Prizes: gift cards (winners) and t-shirts (successful participants)
 
 Online hate speech, including antisemitism, is a growing problem for communication on social media, such as Twitter. It has a global, regional, and local impact. Online and offline antisemitic incidents have increased in recent years and have had an impact even in some high schools across the country.
 
@@ -59,14 +59,13 @@ Just as importantly, your students will also contribute to the scientific study 
 
 Following are a list of important contest dates (all Sunday afternoons). Please direct students and educators to our website for updates and detailed descriptions of each competitive workshop session. Students are expected to participate in all meetings.
 
-**Application Deadline: August 31, 2019**
+**Application Deadline: September 20, 2019**
 
-**Team Selection Notification Date: September 2**
+**Team Selection Notification Date: September 23rd**
 
 
 | **event**    | **date**           | **time** |
 |:-------------|:-------------------|:---------|
-| Meeting 1    | September 22, 2019 | 1-5 PM   |
 | Meeting 2    | October 6, 2019    | 1-5 PM   |
 | Meeting 3    | October 20, 2019   | 1-5 PM   |
 | Meeting 4    | November 3, 2019   | 1-5 PM   |
@@ -81,7 +80,7 @@ All 4 competitive workshops and the final Symposium will take place on the IU-BL
 
 Having reviewed this general competition description and contest timeline, please share the [linked competition flyer](Flyer.pdf) widely with teachers and students across high schools in your district.
 
-All high school students are invited to apply (we welcome applications anytime from now through August 31).
+All high school students are invited to apply (we welcome applications anytime from now through September 20).
 
 
 # Registration and Application
@@ -90,7 +89,7 @@ Interested students: Please complete and submit a secure application form (appli
 
 Note: Students may apply as a team of 3-5 students (see website for guidelines) or individually to be matched by us with a team. No prior knowledge is required though some programming experience may be useful.
 
-**The Application Form is coming soon!**
+**Fill out and submit [the application form](https://docs.google.com/forms/d/e/1FAIpQLSe1cIk7_XAy1H4eWKS0UgZPR-iy3rBgiShmTTFuKkAWQKAHYA/viewform?vc=0&c=0&w=1&usp=mail_form_link) to register.**
 
 Please use this [email](mailto:social.lense.online@gmail.com) for contact information and applications!
 
