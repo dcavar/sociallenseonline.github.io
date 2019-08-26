@@ -66,9 +66,9 @@ Following are a list of important contest dates (all Sunday afternoons). Please 
 
 | **event**    | **date**           | **time** |
 |:-------------|:-------------------|:---------|
-| Meeting 2    | October 6, 2019    | 1-5 PM   |
-| Meeting 3    | October 20, 2019   | 1-5 PM   |
-| Meeting 4    | November 3, 2019   | 1-5 PM   |
+| Meeting 1    | October 6, 2019    | 1-5 PM   |
+| Meeting 2    | October 20, 2019   | 1-5 PM   |
+| Meeting 3    | November 3, 2019   | 1-5 PM   |
 
 
 **Team Submissions Deadline: November 3**
