@@ -89,7 +89,7 @@ Interested students: Please complete and submit a secure application form (appli
 
 Note: Students may apply as a team of 3-5 students (see website for guidelines) or individually to be matched by us with a team. No prior knowledge is required though some programming experience may be useful.
 
-**Fill out and submit [the application form](https://docs.google.com/forms/d/e/1FAIpQLSe1cIk7_XAy1H4eWKS0UgZPR-iy3rBgiShmTTFuKkAWQKAHYA/viewform?vc=0&c=0&w=1&usp=mail_form_link) to register.**
+**Fill out and submit [the application form](https://docs.google.com/forms/d/e/1FAIpQLSe1cIk7_XAy1H4eWKS0UgZPR-iy3rBgiShmTTFuKkAWQKAHYA/viewform?vc=0&c=0&w=1&usp=mail_form_link){:target="_blank" rel="noopener noreferrer"} to register.**
 
 Please use this [email](mailto:social.lense.online@gmail.com) for contact information and applications!!
 
