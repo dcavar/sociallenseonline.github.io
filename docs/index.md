@@ -71,7 +71,7 @@ The following are a list of important contest dates (all Sunday afternoons). Ple
 | Meeting 3    | November 3, 2019   | 1-5 PM   |
 
 
-**Team Submissions Deadline: November 3**
+**Team Submissions Deadline: December 1**
 
 **Closing Symposium: (Time and Location TBA)**
 
