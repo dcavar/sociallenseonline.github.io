@@ -28,7 +28,7 @@ Prizes: gift cards (winners) and t-shirts (successful participants)
 
 Online hate speech, including antisemitism, is a growing problem for communication on social media, such as Twitter. It has a global, regional, and local impact. Online and offline antisemitic incidents have increased in recent years even having an impact in some high schools across the country.
 
-We will train a group of high-school students and University undergraduates in 3 competitive workshops to recognize antisemitic messages on social media and to develop tracking tools by using AI.
+We will train a group of high-school students and a limited number of undergraduates in 3 competitive workshops to recognize antisemitic messages on social media and to develop tracking tools by using AI.
 
 What are prominent forms of antisemtism online?  Who are frequent disseminators and how are they linked internationally?  How does hate speech travel across the globe and what can be done about it?
 
