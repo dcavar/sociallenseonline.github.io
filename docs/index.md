@@ -32,7 +32,7 @@ We will train a group of high-school students and a limited number of undergradu
 
 What are prominent forms of antisemtism online?  Who are frequent disseminators and how are they linked internationally?  How does hate speech travel across the globe and what can be done about it?
 
-IU Professors [Damir Cavar](http://damir.cavar.me/) and [Gunther Jikeli](https://isca.indiana.edu/about/faculty/jikeli-gunther.html) will lead 4 workshops where they coach competitive teams to recognize, monitor, and track antisemitic messages on social media (focusing on Twitter). This includes information on current forms of antisemitism and their history, a datathon to learn how to deal with big data and a hackathon to make use of AI.
+IU Professors [Damir Cavar](http://damir.cavar.me/) and [Gunther Jikeli](https://isca.indiana.edu/about/faculty/jikeli-gunther.html) will lead 3 workshops where they coach competitive teams to recognize, monitor, and track antisemitic messages on social media (focusing on Twitter). This includes information on current forms of antisemitism and their history, a datathon to learn how to deal with big data and a hackathon to make use of AI.
 
 A prize will be given to the best three teams (valued at $500, $300, and $200).
 
