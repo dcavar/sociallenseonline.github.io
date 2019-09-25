@@ -50,7 +50,7 @@ A select group of IU professors representing Computational Linguistics and the I
 
 # Contest Design
 
-By participating, you will learn how to recognize messages of hate against Jews on social media, learn about its historical background, engage in critical thinking and creative problem-solving, flex and develop their intellectual and computing muscles, cooperate with others to create a useful product, and gain valuable experience with sophisticated Artificial Intelligence and Natural Language Processing algorithms, knowledge of which can later help them build prestigious and lucrative careers in several related fields.
+By participating, you will learn how to recognize messages of hate against Jews on social media, learn about its historical background, engage in critical thinking and creative problem-solving, flex and develop your intellectual and computing muscles, cooperate with others to create a useful product, and gain valuable experience with sophisticated Artificial Intelligence and Natural Language Processing algorithms, knowledge of which can later help you build prestigious and lucrative careers in several related fields.
 
 Just as importantly, you will also contribute to the scientific study and analysis of online hate speech, making you a junior partner in the JEDI (Just Environments Data Initiative) mission to combat the dissemination of hate speech in online environments like Facebook and Twitter. For the current competition, teams will employ AI algorithms to collect and analyze antisemitic messages, which among other forms of online hate speech are a growing problem for communication on social media.
 
