@@ -59,19 +59,19 @@ Just as importantly, you will also contribute to the scientific study and analys
 
 The following are a list of important contest dates (all Sunday afternoons). Please check our website for updates and detailed descriptions of each competitive workshop session. You are expected to participate in all meetings.
 
-**Application Deadline: September 20, 2019**
+**Application Deadline: December 2, 2019**
 
-**Team Selection Notification Date: September 23rd**
+**Team Selection Notification Date: December 16, 2019**
 
 
 | **event**    | **date**           | **time** |
 |:-------------|:-------------------|:---------|
-| Meeting 1    | October 6, 2019    | 1-5 PM   |
-| Meeting 2    | October 20, 2019   | 1-5 PM   |
-| Meeting 3    | November 3, 2019   | 1-5 PM   |
+| Meeting 1    | TBA                | 1-5 PM   |
+| Meeting 2    | TBA                | 1-5 PM   |
+| Meeting 3    | TBA                | 1-5 PM   |
 
 
-**Team Submissions Deadline: December 1**
+**Team Submissions Deadline: TBA**
 
 **Closing Symposium: (Time and Location TBA)**
 
@@ -80,7 +80,7 @@ All 3 competitive workshops and the final Symposium will take place on the IU-BL
 
 Having reviewed this general competition description and contest timeline, please share the [linked competition flyer](Flyer.pdf) widely with anyone interested in participating.
 
-All high school students are invited to apply (we welcome applications anytime from now through September 20).
+All high school students are invited to apply (we welcome applications anytime from now through December 1).
 
 
 # Registration and Application
