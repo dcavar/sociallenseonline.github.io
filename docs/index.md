@@ -64,7 +64,7 @@ The following are a list of important contest dates (all Sunday afternoons). Ple
 **Team Selection Notification Date: December 16, 2019**
 
 
-| **event**    | **date**           | **time** |
+| **Event**    | **Date**           | **Time** |
 |:-------------|:-------------------|:---------|
 | Meeting 1    | TBA                | 1-5 PM   |
 | Meeting 2    | TBA                | 1-5 PM   |
